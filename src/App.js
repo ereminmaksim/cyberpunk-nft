@@ -16,7 +16,7 @@ const App = () => {
             // ("https://testnets.opensea.io/assets?asset_contract_address=0x1dFd243365Edd51cfbdA00AEa10E45cF05db41a2&order_direction=asc")
             //
             const openData = await axios.get
-            ("https://testnets-api.opensea.io/assets?asset_contract_address=0x1dFd243365Edd51cfbdA00AEa10E45cF05db41a2&order_direction=asc")
+            ("https://testnets-api.opensea.io/assets?asset_contract_address=0x1dFd243365Edd51cfbdA00AEa10E45cF05db41a2&order_direction=asc", {mode: 'no-cors'})
             console.log(openData.data.assets)
             setCharactersData(openData.data.assets)
         }
