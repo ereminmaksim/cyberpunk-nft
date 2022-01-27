@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
+const cors = require('cors')
+app.use(cors())
 
 ReactDOM.render(
   <React.StrictMode>
