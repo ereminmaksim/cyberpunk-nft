@@ -19,5 +19,6 @@ server.use(middlewares)
 server.listen(PORT, () => {
     console.log('JSON Server is running')
 })
-
+//    "start": "react-scripts start",
+//    "build": "react-scripts build", 
 
