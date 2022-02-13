@@ -1,6 +1,12 @@
 # cyberpunk-nft-web3.0
 # Thirdweb/WEB3.0/NFT/Cyberpunk/React/Axios
 
+## 🔴 <a href="https://cyberpunk-nft-web3.herokuapp.com/" target="_blank">Демонстрация</a>
+
+## Description
+Этот проект, мое начало и использование Thirdweb/WEB3.0/NFT/Cyberpunk/React/Axios
+
+![Header](https://vgtimes.ru/uploads/gallery/main/147504/animals-en.jpg)
 
 <img alt="IMG" src="/img/Cyberpunk-1.jpg" width="800px" />
 <img alt="IMG" src="/img/Cyberpunk-2.jpg" width="800px" />
